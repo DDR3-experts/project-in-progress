@@ -10,6 +10,7 @@ tCAS (CL) 14  --- cas latency
 tRCD 14
 tWR 16
 tRTP 8
+tCCD 4
 tBURST 4
 tWTR 8
 
